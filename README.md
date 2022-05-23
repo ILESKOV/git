@@ -11,13 +11,29 @@ THE PERFECT COMMIT MESSAGE
       -Is there anything to watch out for/ anything particularly remarkable?
       
 git status                 ----> Status
+
+
 git add <filename>         ----> Add file
+      
+      
 git add -A                 ----> Add all files
+      
+      
 git diff <filename>        ----> See changes in file
+      
+      
 git add -p <filename>      ----> add patch level waht to include and what not  (to choose y for YES and no for NO)
+      
+      
 export GIT_EDITOR="subl . --wait --new-window"      ---> This way we can add editor
+      
+      
 git commit                 ----> and we can use this editor to write message with body
+      
+      
 git commit - m "message"   ----> commit with message
+      
+      
 git log                    ----> log commits
   
 
