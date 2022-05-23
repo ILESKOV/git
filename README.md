@@ -1,5 +1,5 @@
 # git
-rules
+
 
 PEFECT COMMIT
 
@@ -24,6 +24,13 @@ git log                    ----> log commits
 
   
   
+
+      
+      
+      
+      
+      
+      
 BRANCHING STRATEGIES
   
   A WRITTEN CONVENTION
@@ -73,5 +80,7 @@ Integrating Changes & Structuring Releases
      -- consider your project, release cycle, and team
      -- take inspiration from existing models(like "GitFlow" or "GitHub Flow")
      -- ..and create your own model!
+      
+
      
   
