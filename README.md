@@ -95,7 +95,7 @@ Integrating Changes & Structuring Releases
   THE "BEST" BRANCHING MODEL??
      -- consider your project, release cycle, and team
      -- take inspiration from existing models(like "GitFlow" or "GitHub Flow")
-     -- ..and create your own model!
+     -- ..and create your own model!!!
       
 
      
