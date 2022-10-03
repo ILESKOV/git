@@ -26,6 +26,7 @@ git add -p <filename>      ----> add patch level waht to include and what not  (
       
       
 export GIT_EDITOR="subl . --wait --new-window"      ---> This way we can add sublime editor
+      
 export GIT_EDITOR="code . --wait --new-window"      ---> This way we can add visual studio editor
       
       
