@@ -88,6 +88,7 @@ Integrating Changes & Structuring Releases
   
   1)GitHub Flow
      -- very simple, very lean: only one long running branch ("main") + feature branches
+     
   2)GitFlow
      -- more structure, more rules
      -- long running: "main" + "develop"
@@ -95,8 +96,11 @@ Integrating Changes & Structuring Releases
   
   
   THE "BEST" BRANCHING MODEL??
+  
      -- consider your project, release cycle, and team
+     
      -- take inspiration from existing models(like "GitFlow" or "GitHub Flow")
+     
      -- ..and create your own model!!!
       
 
